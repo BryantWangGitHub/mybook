@@ -1,3 +1,6 @@
-# My Awesome Book
+# 我的程序小册子
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+记录一些常用的命令或者近期学习的笔记等
+
+
+
